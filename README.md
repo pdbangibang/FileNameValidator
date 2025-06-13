@@ -1,6 +1,6 @@
 File Name Validator
 
-How to run: (Jar file is available inside the out folder)
+How to run: (Jar file is available inside FileNameValidator_jar.zip)
 1.) Install JDK 24 in local machine
 2.) Open cmd in jar folder location
 3.) run command "java -jar FileNameValidator.jar"
